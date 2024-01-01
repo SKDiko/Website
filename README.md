@@ -1,5 +1,8 @@
-# Android App: WSU Application Services
+# Website: E-Prescribing System
 <b>Author:</b> Sonwabile Diko<br>
-<b>Date:</b> 11 November 2020<br>
-<b>Diploma Main Project</b>: Walter Sisulu University android app to help students apply at Walter Sisulu University.<br>
-### APP Logo
+<b>Date:</b> 13 November 2022<br>
+<b>Advanced Diploma Main Project</b>:<br>
+### Login Page
+<img src="https://github.com/SKDiko/Website/assets/93092941/c63dfb3d-4f22-43c2-ba31-5ade9f609d57" width="300"><br>
+
+
