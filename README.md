@@ -9,17 +9,6 @@
 ### Reset Password Page
 <img src="https://github.com/SKDiko/Website/assets/93092941/b7f12b68-711b-4401-8e98-da860475dbd0"><br>
 
-### Patient Home Page
-<img src="https://github.com/SKDiko/Website/assets/93092941/09848390-74e6-40c5-ba06-afc9d0e3acbe"><br>
-### Patient View Medication History Page
-<img src="https://github.com/SKDiko/Website/assets/93092941/5301c1af-883d-442d-b453-9098caad6a4c"><br>
-### Patient View Disease History Page
-<img src="https://github.com/SKDiko/Website/assets/93092941/3da4d851-cb6b-448e-ab11-3003863dbb52"><br>
-### Patient View Allergy History Page
-<img src="https://github.com/SKDiko/Website/assets/93092941/8daa9b89-fed1-45fb-adc1-60cce65f7ca8"><br>
-### Patient Account Page
-<img src="https://github.com/SKDiko/Website/assets/93092941/b8b2f63f-1706-4822-807c-a04263aeb743"><br>
-
 ### Doctor Find Patient Page
 <img src="https://github.com/SKDiko/Website/assets/93092941/6a602793-e149-4c2a-9ca7-c790cb55da74"><br>
 ### Doctor Capture Disease History Page
@@ -37,6 +26,16 @@
 
 ### Pharmacist View Prescriptions Page
 <img src="https://github.com/SKDiko/Website/assets/93092941/73474a44-b3d2-4ae0-83ad-1d2c39d43190"><br>
-
 ### Pharmacist Account Page
 <img src="https://github.com/SKDiko/Website/assets/93092941/1da393b7-1b8d-49ac-b472-7afcc4ea29f2"><br>
+
+### Patient Home Page
+<img src="https://github.com/SKDiko/Website/assets/93092941/123fe9ca-b50e-4b6f-a155-6aebccf83d69"><br>
+### Patient View Medication History Page
+<img src="https://github.com/SKDiko/Website/assets/93092941/9608108f-341c-429d-a941-cc0ca2a60fc0"><br>
+### Patient View Disease History Page
+<img src="https://github.com/SKDiko/Website/assets/93092941/2cdf5386-51a6-40dd-8d4a-cac80d5c1c5a"><br>
+### Patient View Allergy History Page
+<img src="https://github.com/SKDiko/Website/assets/93092941/f23a2acc-0fd9-4f14-9095-1301c4e9ca38"><br>
+### Patient Account Page
+<img src="https://github.com/SKDiko/Website/assets/93092941/9edd6bd3-babd-4c21-83bf-40e4c7f8b9f2"><br>
