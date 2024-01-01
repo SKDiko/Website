@@ -34,3 +34,9 @@
 <img src="https://github.com/SKDiko/Website/assets/93092941/7dd14cee-5b10-4760-9323-994e40b5c9bc"><br>
 ### Doctor Account Page
 <img src="https://github.com/SKDiko/Website/assets/93092941/263e9d8a-48a1-41f1-8a32-3f830750cf8b"><br>
+
+### Pharmacist View Prescriptions Page
+<img src="https://github.com/SKDiko/Website/assets/93092941/73474a44-b3d2-4ae0-83ad-1d2c39d43190"><br>
+
+### Pharmacist Account Page
+<img src="https://github.com/SKDiko/Website/assets/93092941/1da393b7-1b8d-49ac-b472-7afcc4ea29f2"><br>
