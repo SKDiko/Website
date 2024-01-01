@@ -1,0 +1,82 @@
+.table-container {
+	overflow-x:auto;
+	font-size: 14px;
+	font-family: Calibri;
+	text-transform: uppercase;
+}
+
+table {
+	width: 99.6%;
+    margin: 0 1px;
+}
+
+table caption {
+    font-size: 18px;
+}
+
+table, th, td{
+    border: 1px solid #333333;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: left
+}
+
+table tr th {
+    background-color: #037c50;
+    border: 1px solid #024b30;
+    color: #ebebe0;
+}
+
+table tr th button {  /* sort */
+    font-size: 15px;
+    font-family: Calibri;
+    background-color: #037c50;
+    color: #ebebe0;
+    border: 0px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+tr:nth-child(even) {
+    background-color: #e6e6e6;
+}
+
+tr:hover {
+	background-color: #cccccc;
+}
+
+table a {
+    text-decoration: none;
+    color: black;
+}
+
+table a:hover {
+    text-decoration: underline;
+    color: #037c50;
+}
+table a:active {
+    text-decoration: underline;
+    color: #049560;
+}
+
+/*Select btn */
+.table-container #btnSelect {
+    font-size: 15px;
+    font-family: Calibri;
+    background-color: #037c50;
+    color: #e6e6e6;
+    border: 1px solid #037c50;
+    width: 100%;
+    text-transform: uppercase;
+    padding: 3px;
+    cursor: pointer;
+}
+
+.table-container #btnSelect:hover {
+    background-color: #036340;
+}
+
+.table-container #btnSelect:active {
+    font-weight: bold;
+    border: 1px solid red;
+}

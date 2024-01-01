@@ -1,0 +1,124 @@
+.form-content {
+	margin: auto;
+	width: 50%;
+	min-width: 280px;
+	font-size: 14px;
+	font-family: Microsoft JhengHei UI;
+	overflow: hidden;
+}
+
+h2 {
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 20px;
+	font-family: Microsoft JhengHei UI;
+}
+
+fieldset {
+	padding-right: 5px; 
+	margin-bottom: 20px;
+}
+input, select, textarea { 
+	margin: 5px 0px 15px 0px;
+	font-size: 14px;
+	font-family: Microsoft JhengHei UI;
+}
+
+input[type=text], input[type=number], input[type=tel], input[type=password], input[type=date], input[type=email], input.data-list, input[type=search], textarea { 
+	width: 40%;
+	min-width: 230px;
+}
+
+textarea {
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 630px;
+}
+
+select {
+	width: 41%;
+	min-width: 238px;
+}
+
+fieldset legend {
+	font-size: 17px;
+}
+
+input[type=text] {
+	text-transform: capitalize;
+}
+
+input[type=text], input[type=number], input[type=password], input[type=date], input[type=tel], input[type=email], select, input.data-list, input[type=search], textarea {
+	background-color: white;
+	border: 1px solid #808080;
+	padding: 3px;
+}
+
+input[type=text]:hover, input[type=number]:hover, input[type=password]:hover, input[type=date]:hover, input[type=tel]:hover, input[type=email]:hover, select:hover, input.data-list:hover, input[type=search]:hover, textarea:hover {
+	background-color: #f2f2f2;
+}
+
+input[type=text]:focus, input[type=number]:focus, input[type=password]:focus, input[type=date]:focus, input[type=tel]:focus, input[type=email]:focus, select:focus, input.data-list:focus, input[type=search]:focus, textarea:focus {
+	background-color: #f2f2f2;
+	border: 1px ridge #a6a6a6;
+	outline: 1px ridge #a6a6a6;
+}
+
+input[type=submit], input[type=reset] {
+	background-color: #037c50;
+	color: #e6e6e6;
+	border-radius: 5px;
+	width: 100px;
+	cursor: pointer;
+	font-size: 14px;
+	padding: 4px;
+	font-family: Microsoft JhengHei UI;
+	border: 1px solid #037c50;
+	text-transform: uppercase;
+}
+
+input[type=submit]:hover, input[type=reset]:hover {
+	color: #ffffff;
+	background-color: #049560;
+}
+
+input[type=submit]:active, input[type=reset]:active {
+	font-weight: bold;
+	border: 1px solid red;
+	background-color: #036340;
+}
+
+#btnClear {float: right;}
+
+.form-content a {
+	text-decoration: none;
+	color: #000000;
+}
+.form-content a:hover {
+	text-decoration: underline;
+	color: #0000ff;
+}
+
+.validation {
+  margin-bottom: 15px;
+  display:block;
+  color: red;
+  font-size: 14px;
+  font-family: Microsoft JhengHei UI;
+  line-height: 2;
+}
+.validation i {font-size: 16px;}
+
+.valid {
+  color: green;
+}
+
+.form-submit {
+	border: 0px;
+	padding: 0;
+	margin-bottom: 0;
+}
+
+.form-submit input {
+	margin: 0;
+}

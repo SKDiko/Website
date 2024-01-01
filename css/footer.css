@@ -1,0 +1,41 @@
+.footer {
+	overflow: visible;
+	margin: 0px;
+	text-align: center;
+	line-height: 1.5;
+}
+
+.footer a {
+	font-size: 14px;
+	font-family: Microsoft JhengHei UI;
+}
+
+.footer a:hover {
+	color: #036340;
+}
+
+.footer a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.footer i {
+	font-size: 20px;
+	padding: 5px 20px 10px 20px;
+}
+
+.fa-facebook:hover {
+  color: #4060a5;
+}
+
+.fa-twitter:hover {
+  color: #5db0ef;
+}
+
+.fa-instagram:hover {
+  color: #e600e6;
+}
+
+.fa-linkedin:hover {
+  color: #0d80f2;
+}

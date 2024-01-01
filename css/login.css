@@ -1,0 +1,78 @@
+.form-content {
+	margin: auto;
+	width: 25%;
+	min-width: 250px;
+	font-size: 14px;
+	font-family: Microsoft JhengHei UI;
+	overflow: hidden;
+	padding: 0 5px;
+}
+
+.form-content h2 {
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 20px;
+}
+
+input { 
+	margin: 5px 0px 15px 0px;
+	font-size: 14px;
+	font-family: Microsoft JhengHei UI;
+}
+
+input[type=text], input[type=password] { 
+	width: 97%;
+	min-width: 240px;
+}
+
+input[type=text], input[type=password] {
+	background-color: white;
+	border: 1px solid #808080;
+	padding: 3px;
+}
+
+input[type=text]:hover, input[type=password]:hover {
+	background-color: #f2f2f2;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+	background-color: #f2f2f2;
+	border: 1px ridge #a6a6a6;
+	outline: 1px ridge #a6a6a6;
+}
+
+input[type=submit] {
+	background-color: #037c50;
+	color: #e6e6e6;
+	border-radius: 5px;
+	width: 120px;
+	cursor: pointer;
+	font-size: 14px;
+	padding: 4px;
+	font-family: Microsoft JhengHei UI;
+	border: 1px solid #037c50;
+	text-transform: uppercase;
+}
+
+input[type=submit]:hover {
+	color: #ffffff;
+	background-color: #049560;
+}
+
+input[type=submit]:active {
+	font-weight: bold;
+	border: 1px solid red;
+	background-color: #036340;
+}
+
+label a {
+	text-decoration: none;
+	color: #000000;
+	float: right;
+	line-height: 3;
+}
+
+label a:hover {
+	text-decoration: underline;
+	color: #036340;
+}
