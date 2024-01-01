@@ -1,7 +1,7 @@
 # Website: E-Prescribing System
 <b>Author:</b> Sonwabile Diko<br>
 <b>Date:</b> 13 November 2022<br>
-<b>Advanced Diploma Main Project</b>:<br>
+<b>Advanced Diploma Main Project</b>: E-Prescribing allows medical practitioners to send medication prescriptions to pharmacies electronically.<br>
 ### Login Page
 <img src="https://github.com/SKDiko/Website/assets/93092941/c63dfb3d-4f22-43c2-ba31-5ade9f609d57"><br>
 ### Signup Page
